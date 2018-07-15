@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import TeamList from './TeamList'
 import CreateTeam from './CreateTeam'
+import { Route } from 'react-router-dom'
+import { Link } from 'react-router-dom'
+
 
 var teams = require('./teams.json')
 var heroes = require('./heroes.json')
@@ -12,20 +15,15 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <a href='#teams'
-           onClick={(e) => this.setState({ screen: 'teams' })}
-           className='view-teams'>View TI8 Teams</a>
+        <Link to='/teams'
+              className='view-teams'>View TI8 Teams</Link>
        <br/>
-       <a href='#create'
-          onClick={(e) => this.setState({ screen: 'create' })}
-          className='create-team'>Create Team</a>
-        {this.state.screen === 'teams' &&  (
+       <Link to='/create'
+             className='create-team'>Create Team</Link>
+        <Route exact path='/teams' render={() =>  (
           <TeamList teams={teams}/>
-        )}
-
-        {this.state.screen === 'create' && (
-          <CreateTeam/>
-        )}
+        )}/>
+        <Route path='/create' component={CreateTeam}/>
       </div>
     );
   }
