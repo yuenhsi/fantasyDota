@@ -1,0 +1,680 @@
+[
+  { "account_id": 106863163,
+    "label": "Somnus丶M",
+    "position" : 2,
+    "games_played": 1037,
+    "wins": 644,
+    "is_current_team_member": true},
+  {
+    "account_id": 177416702,
+    "label": "AME",
+    "position" : 1,
+    "games_played": 372,
+    "wins": 217,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 94738847,
+    "label": "Chalice",
+    "position" :3,
+    "games_played": 184,
+    "wins": 126,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 101695162,
+    "label": "fy",
+    "position" : 4,
+    "games_played": 283,
+    "wins": 173,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 94296097,
+    "label": "xNova",
+    "position":5,
+    "games_played": 182,
+    "wins": 126,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 82262664,
+    "label": "KuroKy",
+    "position": 5,
+    "games_played": 666,
+    "wins": 437,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 72312627,
+    "label": "MATUMBAMAN",
+    "position": 1,
+    "games_played": 666,
+    "wins": 437,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 34505203,
+    "label": "MinD_ContRoL",
+    "position" : 3,
+    "games_played": 665,
+    "wins": 436,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 105248644,
+    "label": "Miracle-",
+    "position": 2,
+    "games_played": 389,
+    "wins": 259,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 101356886,
+    "label": "Gh",
+    "position": 4,
+    "games_played": 355,
+    "wins": 244,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 106573901,
+    "label": "No[o]ne-",
+    "position": 2,
+    "games_played": 400,
+    "wins": 276,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 92423451,
+    "label": "9pasha",
+    "position": 3,
+    "games_played": 399,
+    "wins": 275,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 132851371,
+    "label": "RAMZES666",
+    "position": 1,
+    "games_played": 398,
+    "wins": 276,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 134556694,
+    "label": "Solo",
+    "position": 5,
+    "games_played": 383,
+    "wins": 263,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 159020918,
+    "label": "RodjER",
+    "position": 4,
+    "games_played": 95,
+    "wins": 67,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 47434686,
+    "label": "SVG",
+    "position": 5,
+    "games_played": 101,
+    "wins": 70,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 86726887,
+    "label": "MSS-",
+    "position": 4,
+    "games_played": 101,
+    "wins": 70,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 108452107,
+    "label": "YS",
+    "position": 2,
+    "games_played": 101,
+    "wins": 70,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 10366616,
+    "label": "Sneyking",
+    "position": 3,
+    "games_played": 101,
+    "wins": 70,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 86725175,
+    "label": "Resolut1on",
+    "position": 1,
+    "games_played": 71,
+    "wins": 48,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 87278757,
+    "label": "Puppey",
+    "position": 5,
+    "games_played": 805,
+    "wins": 526,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 116585378,
+    "label": "MidOne",
+    "position":2,
+    "games_played": 375,
+    "wins": 247,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 89117038,
+    "label": "YapzOr",
+    "position": 4,
+    "games_played": 278,
+    "wins": 178,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 97590558,
+    "label": "Ace",
+    "position": 1,
+    "games_played": 187,
+    "wins": 122,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 86799300,
+    "label": "Fata",
+    "position": 3,
+    "games_played": 164,
+    "wins": 104,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 221666230,
+    "label": "CCnC",
+    "position": 2,
+    "games_played": 269,
+    "wins": 165,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 87285329,
+    "label": "Pajkatt",
+    "position": 1,
+    "games_played": 269,
+    "wins": 165,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 86727555,
+    "label": "Peterpandam",
+    "position": 5,
+    "games_played": 269,
+    "wins": 165,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 73562326,
+    "label": "zai",
+    "position": 4,
+    "games_played": 267,
+    "wins": 165,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 86698277,
+    "label": "33",
+    "position": 3,
+    "games_played": 186,
+    "wins": 113,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 91443418,
+    "label": "ninjaboogie",
+    "position":5,
+    "games_played": 476,
+    "wins": 291,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 89871557,
+    "label": "Mushi",
+    "position": 1,
+    "games_played": 303,
+    "wins": 182,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 100471531,
+    "label": "Jabz",
+    "position": 4,
+    "games_played": 233,
+    "wins": 143,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 113457795,
+    "label": "Moonn",
+    "position": 2,
+    "games_played": 233,
+    "wins": 143,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 84772440,
+    "label": "冰冰冰",
+    "position": 3,
+    "games_played": 220,
+    "wins": 134,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 113800818,
+    "label": "Fenrir",
+    "position": 5,
+    "games_played": 1003,
+    "wins": 632,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 107803494,
+    "label": "Ori",
+    "position": 2,
+    "games_played": 364,
+    "wins": 212,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 89423756,
+    "label": "LaNm",
+    "position": 4,
+    "games_played": 259,
+    "wins": 154,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 134276083,
+    "label": "eLeVen",
+    "position": 3,
+    "games_played": 259,
+    "wins": 154,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 137193239,
+    "label": "Paparazi灬",
+    "position":1,
+    "games_played": 259,
+    "wins": 154,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 102099826,
+    "label": "DJ",
+    "position": 4,
+    "games_played": 608,
+    "wins": 373,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 43276219,
+    "label": "EternaLEnVy",
+    "position": 1,
+    "games_played": 265,
+    "wins": 158,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 6922000,
+    "label": "pieliedie",
+    "position": 5,
+    "games_played": 254,
+    "wins": 153,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 154715080,
+    "label": "Abed",
+    "position": 2,
+    "games_played": 227,
+    "wins": 141,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 87276347,
+    "label": "Universe",
+    "position": 3,
+    "games_played": 162,
+    "wins": 100,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 19672354,
+    "label": "BigDaddyN0tail",
+    "position": 5,
+    "games_played": 632,
+    "wins": 410,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 26771994,
+    "label": "JerAx",
+    "position": 4,
+    "games_played": 419,
+    "wins": 268,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 311360822,
+    "label": "ana",
+    "position": 1,
+    "games_played": 206,
+    "wins": 130,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 94054712,
+    "label": "Topson",
+    "position": 2,
+    "games_played": 16,
+    "wins": 14,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 88271237,
+    "label": "Ceb",
+    "position": 3,
+    "games_played": 92,
+    "wins": 55,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 139876032,
+    "label": "kaka",
+    "position":4,
+    "games_played": 767,
+    "wins": 489,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 87012746,
+    "label": "kpii",
+    "position": 3,
+    "games_played": 761,
+    "wins": 488,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 117281554,
+    "label": "Moogy",
+    "position": 1,
+    "games_played": 568,
+    "wins": 349,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 149486894,
+    "label": "Sccc",
+    "position": 2,
+    "games_played": 568,
+    "wins": 349,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 82327674,
+    "label": "Faith",
+    "position": 5,
+    "games_played": 561,
+    "wins": 346,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 93552791,
+    "label": "Nofear",
+    "position": 4,
+    "games_played": 74,
+    "wins": 48,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 130801103,
+    "label": "nongrata",
+    "position": 3,
+    "games_played": 74,
+    "wins": 48,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 89269794,
+    "label": "Silent",
+    "position": 1,
+    "games_played": 74,
+    "wins": 48,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 250114507,
+    "label": "Iceberg",
+    "position": 2,
+    "games_played": 74,
+    "wins": 48,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 91064780,
+    "label": "ALWAYSWANNAFLY",
+    "position": 5,
+    "games_played": 74,
+    "wins": 48,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 86745912,
+    "label": "rtz YB`a",
+    "position":1,
+    "games_played": 766,
+    "wins": 498,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 111620041,
+    "label": "SumaiL",
+    "position": 2,
+    "games_played": 685,
+    "wins": 417,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 25907144,
+    "label": "Cr1t-",
+    "position": 4,
+    "games_played": 362,
+    "wins": 224,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 41231571,
+    "label": "s4",
+    "position": 3,
+    "games_played": 20,
+    "wins": 10,
+    "is_current_team_member": false
+  },
+  {
+    "account_id": 94155156,
+    "label": "Fly",
+    "position": 5,
+    "games_played": 20,
+    "wins": 10,
+    "is_current_team_member": false
+  },
+  {
+    "account_id": 84853828,
+    "label": "Kingrd",
+    "position": 4,
+    "games_played": 368,
+    "wins": 185,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 117956848,
+    "label": "tavo",
+    "position": 3,
+    "games_played": 297,
+    "wins": 168,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 94004717,
+    "label": "hFn k3  ♥ M",
+    "position": 1,
+    "games_played": 214,
+    "wins": 118,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 116525052,
+    "label": "duster",
+    "position": 5,
+    "games_played": 155,
+    "wins": 91,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 86700461,
+    "label": "w33",
+    "position": 2,
+    "games_played": 55,
+    "wins": 29,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 139937922,
+    "label": "Yang",
+    "position": 3,
+    "games_played": 236,
+    "wins": 136,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 182331313,
+    "label": "Fade",
+    "position": 4,
+    "games_played": 236,
+    "wins": 136,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 108382060,
+    "label": "Sylar",
+    "position": 1,
+    "games_played": 236,
+    "wins": 136,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 137272985,
+    "label": "Freeze",
+    "position": 2,
+    "games_played": 225,
+    "wins": 130,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 114239371,
+    "label": "ddc",
+    "position": 5,
+    "games_played": 104,
+    "wins": 56,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 157475523,
+    "label": "XinQ",
+    "position": 2,
+    "games_played": 21,
+    "wins": 11,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 117731777,
+    "label": "XCJ",
+    "position": 5,
+    "games_played": 21,
+    "wins": 11,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 168028715,
+    "label": "zhizhizhi",
+    "position": 1,
+    "games_played": 21,
+    "wins": 11,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 138543123,
+    "label": "Pyw",
+    "position": 4,
+    "games_played": 21,
+    "wins": 11,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 124936122,
+    "label": "Zyd",
+    "position": 2,
+    "games_played": 16,
+    "wins": 9,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 207829314,
+    "label": "BoBoKa",
+    "position": 4,
+    "games_played": 615,
+    "wins": 367,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 129958758,
+    "label": "Xxs",
+    "position": 2,
+    "games_played": 615,
+    "wins": 367,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 140153524,
+    "label": "Q",
+    "position": 5,
+    "games_played": 463,
+    "wins": 282,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 156662698,
+    "label": "Srf",
+    "position": 3,
+    "games_played": 56,
+    "wins": 30,
+    "is_current_team_member": true
+  },
+  {
+    "account_id": 130416036,
+    "label": "Agressif",
+    "position": 1,
+    "games_played": 56,
+    "wins": 30,
+    "is_current_team_member": true
+  }
+]
