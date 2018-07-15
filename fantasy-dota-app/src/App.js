@@ -17,9 +17,10 @@ class App extends Component {
       <div className="App">
         <Link to='/teams'
               className='view-teams'>View TI8 Teams</Link>
-       <br/>
-       <Link to='/create'
+        <br/>
+        <Link to='/create'
              className='create-team'>Create Team</Link>
+
         <Route exact path='/teams' render={() =>  (
           <TeamList teams={teams}/>
         )}/>
