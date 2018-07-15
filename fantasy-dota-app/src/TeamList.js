@@ -6,7 +6,10 @@ class TeamList extends Component {
 
       return <ol>
         {teams.map(team => (
+          <div>
             <li key={team.name}>{team.name}</li>
+            <img src={team.logo_url} />
+          </div>
         ))}
       </ol>
   }
