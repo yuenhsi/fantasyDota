@@ -4,14 +4,17 @@ class TeamList extends Component {
   render() {
       const teams = this.props.teams
 
-      return <ol>
+      return <li className="TeamListli">
         {teams.map(team => (
-          <div>
-            <li key={team.name}>{team.name}</li>
-            <img src={team.logo_url} />
+          <div className={"container" + team.team_id}>
+            <h3 key={team.name}>{team.name}</h3>
+            <img class="img_img" src={team.logo_url} />
+            <div className="img_description_layer">
+              <p className="img_description">Testing</p>
+            </div>
           </div>
         ))}
-      </ol>
+      </li>
   }
 }
 
