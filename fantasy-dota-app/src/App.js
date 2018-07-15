@@ -2,17 +2,8 @@ import React, { Component } from 'react';
 import TeamList from './TeamList'
 import CreateTeam from './CreateTeam'
 
-const teams = [
-    { name: 'Virtus Pro' },
-    { name: 'Team Liquid' },
-    { name: 'PSG.LGD' },
-    { name: 'Team Secret' },
-    { name: 'Mineski' },
-    { name: 'Vici Gaming' },
-    { name: 'Newbee' },
-    { name: 'VGJ.Thunder' }
-]
-
+var teams = require('./teams.json')
+var heroes = require('./heroes.json')
 
 class App extends Component {
   state = {

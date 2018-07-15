@@ -1,4 +1,4 @@
-var TEAMS = [{
+[{
 "team_id": 15,
 "rating": 1602.65,
 "wins": 938,
