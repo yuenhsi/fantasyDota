@@ -11,15 +11,12 @@ class TeamList extends Component {
             <img className={"container" + team.team_id + "img"} src={team.logo_url} />
             <div className="overlay">
               <div className="playerNames">
-                // <li>{team.players.name}</li>
-                <p>
-                John Doe <br />
-                Jane Doe <br />
-                John Doe <br />
-                Jane Doe <br />
-                John Doe <br />
-                Jane Doe <br />
-                </p>
+              <br/>
+              <h5>{team.players[0].name}</h5>
+              <h5>{team.players[1].name}</h5>
+              <h5>{team.players[2].name}</h5>
+              <h5>{team.players[3].name}</h5>
+              <h5>{team.players[4].name}</h5>
               </div>
             </div>
           </div>
