@@ -9,6 +9,7 @@ class TeamList extends Component {
           <div className="container">
             <h3 key={team.name}>{team.name}</h3>
             <img className={"container" + team.team_id + "img"} src={team.logo_url} />
+
             <div className="overlay">
               <div className="playerNames">
               <br/>
@@ -19,6 +20,7 @@ class TeamList extends Component {
               <h5>{team.players[4].name}</h5>
               </div>
             </div>
+            
           </div>
         ))}
       </li>

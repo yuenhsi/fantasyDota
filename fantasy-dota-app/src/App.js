@@ -4,7 +4,6 @@ import CreateTeam from './CreateTeam'
 import { Route } from 'react-router-dom'
 import { Link } from 'react-router-dom'
 
-
 var teams = require('./teams.json')
 var heroes = require('./heroes.json')
 
