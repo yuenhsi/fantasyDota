@@ -8,14 +8,47 @@
 .TeamListli div img{
   height: 16em;
   width: 16em;
+  display: block;
   /* border: 1px solid black; */
 }
 
-.container1838315 img{
-  filter: invert(100%);
-  /* background-color: black; */
+/* team secret */
+.container1838315img {
+  /* filter: invert(100%); */
+  background-color: black;
 }
-.container5 img{
-  filter: invert(100%);
-  /* background-color: black; */
+/* invictus gaming */
+.container5img {
+  /* filter: invert(100%); */
+  background-color: black;
+}
+
+.container {
+  position:relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.container:hover img{
+  opacity:0.5;
+}
+
+.playerNames {
+  color: purple;
+  font-size: 1em;
+  text-align: center;
 }
