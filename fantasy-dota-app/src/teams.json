@@ -8,12 +8,6 @@
 "tag": "PSG.LGD",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/15.png",
 "players": [
-  {"account_id": 106863163,
-"name": "Somnus丶M",
-"position" : 2,
-"games_played": 1037,
-"wins": 644,
-"is_current_team_member": true},
 {
 "account_id": 177416702,
 "name": "AME",
@@ -22,6 +16,12 @@
 "wins": 217,
 "is_current_team_member": true
 },
+{"account_id": 106863163,
+"name": "Somnus丶M",
+"position" : 2,
+"games_played": 1037,
+"wins": 644,
+"is_current_team_member": true},
 {
 "account_id": 94738847,
 "name": "Chalice",
@@ -58,28 +58,12 @@
 "tag": "Liquid",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2163.png",
 "players": [
-  {
-"account_id": 82262664,
-"name": "KuroKy",
-"position": 5,
-"games_played": 666,
-"wins": 437,
-"is_current_team_member": true
-},
 {
 "account_id": 72312627,
 "name": "MATUMBAMAN",
 "position": 1,
 "games_played": 666,
 "wins": 437,
-"is_current_team_member": true
-},
-{
-"account_id": 34505203,
-"name": "MinD_ContRoL",
-"position" : 3,
-"games_played": 665,
-"wins": 436,
 "is_current_team_member": true
 },
 {
@@ -91,11 +75,27 @@
 "is_current_team_member": true
 },
 {
+"account_id": 34505203,
+"name": "MinD_ContRoL",
+"position" : 3,
+"games_played": 665,
+"wins": 436,
+"is_current_team_member": true
+},
+{
 "account_id": 101356886,
 "name": "Gh",
 "position": 4,
 "games_played": 355,
 "wins": 244,
+"is_current_team_member": true
+},
+{
+"account_id": 82262664,
+"name": "KuroKy",
+"position": 5,
+"games_played": 666,
+"wins": 437,
 "is_current_team_member": true
 }
 ]
@@ -109,7 +109,16 @@
 "name": "Virtus.pro",
 "tag": "VP",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/1883502.png",
-"players":[{
+"players":[
+  {
+  "account_id": 132851371,
+  "name": "RAMZES666",
+  "position": 1,
+  "games_played": 398,
+  "wins": 276,
+  "is_current_team_member": true
+  },
+  {
 "account_id": 106573901,
 "name": "No[o]ne-",
 "position": 2,
@@ -126,11 +135,11 @@
 "is_current_team_member": true
 },
 {
-"account_id": 132851371,
-"name": "RAMZES666",
-"position": 1,
-"games_played": 398,
-"wins": 276,
+"account_id": 159020918,
+"name": "RodjER",
+"position": 4,
+"games_played": 95,
+"wins": 67,
 "is_current_team_member": true
 },
 {
@@ -139,14 +148,6 @@
 "position": 5,
 "games_played": 383,
 "wins": 263,
-"is_current_team_member": true
-},
-{
-"account_id": 159020918,
-"name": "RodjER",
-"position": 4,
-"games_played": 95,
-"wins": 67,
 "is_current_team_member": true
 }]
 },
@@ -159,44 +160,45 @@
 "name": "VGJ Storm",
 "tag": "VGJ.Storm",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/5228654.png",
-"players":[{
+"players":[
+  {
+  "account_id": 86725175,
+  "name": "Resolut1on",
+  "position": 1,
+  "games_played": 71,
+  "wins": 48,
+  "is_current_team_member": true
+  },
+  {
+  "account_id": 108452107,
+  "name": "YS",
+  "position": 2,
+  "games_played": 101,
+  "wins": 70,
+  "is_current_team_member": true
+  },
+  {
+  "account_id": 10366616,
+  "name": "Sneyking",
+  "position": 3,
+  "games_played": 101,
+  "wins": 70,
+  "is_current_team_member": true
+  },
+  {
+  "account_id": 86726887,
+  "name": "MSS-",
+  "position": 4,
+  "games_played": 101,
+  "wins": 70,
+  "is_current_team_member": true
+  },
+  {
 "account_id": 47434686,
 "name": "SVG",
 "position": 5,
 "games_played": 101,
 "wins": 70,
-"is_current_team_member": true
-},
-{
-"account_id": 86726887,
-"name": "MSS-",
-"position": 4,
-"games_played": 101,
-"wins": 70,
-"is_current_team_member": true
-},
-{
-"account_id": 108452107,
-"name": "YS",
-"position": 2,
-"games_played": 101,
-"wins": 70,
-"is_current_team_member": true
-},
-{
-"account_id": 10366616,
-"name": "Sneyking",
-"position": 3,
-"games_played": 101,
-"wins": 70,
-"is_current_team_member": true
-},
-{
-"account_id": 86725175,
-"name": "Resolut1on",
-"position": 1,
-"games_played": 71,
-"wins": 48,
 "is_current_team_member": true
 }]
 },
@@ -209,20 +211,28 @@
 "name": "Team Secret",
 "tag": "Secret",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/1838315.png",
-"players":[{
-"account_id": 87278757,
-"name": "Puppey",
-"position": 5,
-"games_played": 805,
-"wins": 526,
-"is_current_team_member": true
-},
-{
+"players":[
+  {
+  "account_id": 97590558,
+  "name": "Ace",
+  "position": 1,
+  "games_played": 187,
+  "wins": 122,
+  "is_current_team_member": true
+  },{
 "account_id": 116585378,
 "name": "MidOne",
 "position":2,
 "games_played": 375,
 "wins": 247,
+"is_current_team_member": true
+},
+{
+"account_id": 86799300,
+"name": "Fata",
+"position": 3,
+"games_played": 164,
+"wins": 104,
 "is_current_team_member": true
 },
 {
@@ -232,19 +242,13 @@
 "games_played": 278,
 "wins": 178,
 "is_current_team_member": true
-},{
-"account_id": 97590558,
-"name": "Ace",
-"position": 1,
-"games_played": 187,
-"wins": 122,
-"is_current_team_member": true
-},{
-"account_id": 86799300,
-"name": "Fata",
-"position": 3,
-"games_played": 164,
-"wins": 104,
+},
+{
+"account_id": 87278757,
+"name": "Puppey",
+"position": 5,
+"games_played": 805,
+"wins": 526,
 "is_current_team_member": true
 }]
 },
@@ -257,14 +261,7 @@
 "name": "OpTic Gaming",
 "tag": "OpTic",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/5026801.png",
-"players":[{
-"account_id": 221666230,
-"name": "CCnC",
-"position": 2,
-"games_played": 269,
-"wins": 165,
-"is_current_team_member": true
-},
+"players":[
 {
 "account_id": 87285329,
 "name": "Pajkatt",
@@ -274,11 +271,19 @@
 "is_current_team_member": true
 },
 {
-"account_id": 86727555,
-"name": "Peterpandam",
-"position": 5,
+"account_id": 221666230,
+"name": "CCnC",
+"position": 2,
 "games_played": 269,
 "wins": 165,
+"is_current_team_member": true
+},
+{
+"account_id": 86698277,
+"name": "33",
+"position": 3,
+"games_played": 186,
+"wins": 113,
 "is_current_team_member": true
 },
 {
@@ -290,11 +295,11 @@
 "is_current_team_member": true
 },
 {
-"account_id": 86698277,
-"name": "33",
-"position": 3,
-"games_played": 186,
-"wins": 113,
+"account_id": 86727555,
+"name": "Peterpandam",
+"position": 5,
+"games_played": 269,
+"wins": 165,
 "is_current_team_member": true
 }]
 },
@@ -307,28 +312,13 @@
 "name": "Mineski.亿电竞",
 "tag": "Mski亿电竞",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/543897.png",
-"players":[{
-"account_id": 91443418,
-"name": "ninjaboogie",
-"position":5,
-"games_played": 476,
-"wins": 291,
-"is_current_team_member": true
-},
+"players":[
 {
 "account_id": 89871557,
 "name": "Mushi",
 "position": 1,
 "games_played": 303,
 "wins": 182,
-"is_current_team_member": true
-},
-{
-"account_id": 100471531,
-"name": "Jabz",
-"position": 4,
-"games_played": 233,
-"wins": 143,
 "is_current_team_member": true
 },
 {
@@ -345,6 +335,21 @@
 "games_played": 220,
 "wins": 134,
 "is_current_team_member": true
+},
+{
+"account_id": 100471531,
+"name": "Jabz",
+"position": 4,
+"games_played": 233,
+"wins": 143,
+"is_current_team_member": true
+},{
+"account_id": 91443418,
+"name": "ninjaboogie",
+"position":5,
+"games_played": 476,
+"wins": 291,
+"is_current_team_member": true
 }]
 },
 {
@@ -356,12 +361,13 @@
 "name": "Vici Gaming",
 "tag": "VG",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/726228.png",
-"players":[{
-"account_id": 113800818,
-"name": "Fenrir",
-"position": 5,
-"games_played": 1003,
-"wins": 632,
+"players":[
+{
+"account_id": 137193239,
+"name": "Paparazi灬",
+"position":1,
+"games_played": 259,
+"wins": 154,
 "is_current_team_member": true
 },
 {
@@ -373,14 +379,6 @@
 "is_current_team_member": true
 },
 {
-"account_id": 89423756,
-"name": "LaNm",
-"position": 4,
-"games_played": 259,
-"wins": 154,
-"is_current_team_member": true
-},
-{
 "account_id": 134276083,
 "name": "eLeVen",
 "position": 3,
@@ -389,11 +387,18 @@
 "is_current_team_member": true
 },
 {
-"account_id": 137193239,
-"name": "Paparazi灬",
-"position":1,
+"account_id": 89423756,
+"name": "LaNm",
+"position": 4,
 "games_played": 259,
 "wins": 154,
+"is_current_team_member": true
+},{
+"account_id": 113800818,
+"name": "Fenrir",
+"position": 5,
+"games_played": 1003,
+"wins": 632,
 "is_current_team_member": true
 }]
 },
@@ -406,28 +411,27 @@
 "name": "TNC Predator",
 "tag": "TNC",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2108395.png",
-"players": [{
-"account_id": 187619311,
-"name": "SamH",
-"position": 3,
-"games_played": 457,
-"wins": 266,
-"is_current_team_member": true
-},
-{
-"account_id": 184950344,
-"name": "Kuku",
-"position": 5,
-"games_played": 457,
-"wins": 266,
-"is_current_team_member": true
-},
+"players": [
 {
 "account_id": 132309493,
 "name": "Raven",
 "position":1,
 "games_played": 434,
 "wins": 256,
+"is_current_team_member": true
+},{
+"account_id": 164532005,
+"name": "Armel",
+"position":2,
+"games_played": 137,
+"wins": 81,
+"is_current_team_member": true
+},{
+"account_id": 187619311,
+"name": "SamH",
+"position": 3,
+"games_played": 457,
+"wins": 266,
 "is_current_team_member": true
 },
 {
@@ -439,11 +443,11 @@
 "is_current_team_member": true
 },
 {
-"account_id": 164532005,
-"name": "Armel",
-"position":2,
-"games_played": 137,
-"wins": 81,
+"account_id": 184950344,
+"name": "Kuku",
+"position": 5,
+"games_played": 457,
+"wins": 266,
 "is_current_team_member": true
 }]
 },
@@ -457,26 +461,11 @@
 "tag": "Fnatic",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/350190.png",
 "players": [{
-"account_id": 102099826,
-"name": "DJ",
-"position": 4,
-"games_played": 608,
-"wins": 373,
-"is_current_team_member": true
-},{
 "account_id": 43276219,
 "name": "EternaLEnVy",
 "position": 1,
 "games_played": 265,
 "wins": 158,
-"is_current_team_member": true
-},
-{
-"account_id": 6922000,
-"name": "pieliedie",
-"position": 5,
-"games_played": 254,
-"wins": 153,
 "is_current_team_member": true
 },
 {
@@ -494,6 +483,21 @@
 "games_played": 162,
 "wins": 100,
 "is_current_team_member": true
+},{
+"account_id": 102099826,
+"name": "DJ",
+"position": 4,
+"games_played": 608,
+"wins": 373,
+"is_current_team_member": true
+},
+{
+"account_id": 6922000,
+"name": "pieliedie",
+"position": 5,
+"games_played": 254,
+"wins": 153,
+"is_current_team_member": true
 }]
 },
 {
@@ -506,22 +510,6 @@
 "tag": "OG",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/2586976.png",
 "players":[
-  {
-"account_id": 19672354,
-"name": "BigDaddyN0tail",
-"position": 5,
-"games_played": 632,
-"wins": 410,
-"is_current_team_member": true
-},
-{
-"account_id": 26771994,
-"name": "JerAx",
-"position": 4,
-"games_played": 419,
-"wins": 268,
-"is_current_team_member": true
-},
 {
 "account_id": 311360822,
 "name": "ana",
@@ -545,6 +533,21 @@
 "games_played": 92,
 "wins": 55,
 "is_current_team_member": true
+},
+{
+"account_id": 26771994,
+"name": "JerAx",
+"position": 4,
+"games_played": 419,
+"wins": 268,
+"is_current_team_member": true
+},{
+"account_id": 19672354,
+"name": "BigDaddyN0tail",
+"position": 5,
+"games_played": 632,
+"wins": 410,
+"is_current_team_member": true
 }
 ]
 },
@@ -557,14 +560,23 @@
 "name": "Newbee",
 "tag": "Newbee",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/1375614.png",
-"players":[{
-"account_id": 139876032,
-"name": "kaka",
-"position":4,
-"games_played": 767,
-"wins": 489,
-"is_current_team_member": true
-},
+"players":[
+  {
+  "account_id": 117281554,
+  "name": "Moogy",
+  "position": 1,
+  "games_played": 568,
+  "wins": 349,
+  "is_current_team_member": true
+  },
+  {
+  "account_id": 149486894,
+  "name": "Sccc",
+  "position": 2,
+  "games_played": 568,
+  "wins": 349,
+  "is_current_team_member": true
+  },
 {
 "account_id": 87012746,
 "name": "kpii",
@@ -572,21 +584,12 @@
 "games_played": 761,
 "wins": 488,
 "is_current_team_member": true
-},
-{
-"account_id": 117281554,
-"name": "Moogy",
-"position": 1,
-"games_played": 568,
-"wins": 349,
-"is_current_team_member": true
-},
-{
-"account_id": 149486894,
-"name": "Sccc",
-"position": 2,
-"games_played": 568,
-"wins": 349,
+},{
+"account_id": 139876032,
+"name": "kaka",
+"position":4,
+"games_played": 767,
+"wins": 489,
 "is_current_team_member": true
 },
 {
@@ -607,10 +610,18 @@
 "name": "Winstrike",
 "tag": "Winstrike",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/5229127.png",
-"players":[{
-"account_id": 93552791,
-"name": "Nofear",
-"position": 4,
+"players":[
+  {
+  "account_id": 89269794,
+  "name": "Silent",
+  "position": 1,
+  "games_played": 74,
+  "wins": 48,
+  "is_current_team_member": true
+},{
+"account_id": 250114507,
+"name": "Iceberg",
+"position": 2,
 "games_played": 74,
 "wins": 48,
 "is_current_team_member": true
@@ -622,19 +633,10 @@
 "games_played": 74,
 "wins": 48,
 "is_current_team_member": true
-},
-{
-"account_id": 89269794,
-"name": "Silent",
-"position": 1,
-"games_played": 74,
-"wins": 48,
-"is_current_team_member": true
-},
-{
-"account_id": 250114507,
-"name": "Iceberg",
-"position": 2,
+},{
+"account_id": 93552791,
+"name": "Nofear",
+"position": 4,
 "games_played": 74,
 "wins": 48,
 "is_current_team_member": true
@@ -673,19 +675,19 @@
 "wins": 417,
 "is_current_team_member": true
 },{
-"account_id": 25907144,
-"name": "Cr1t-",
-"position": 4,
-"games_played": 362,
-"wins": 224,
-"is_current_team_member": true
-},{
 "account_id": 41231571,
 "name": "s4",
 "position": 3,
 "games_played": 20,
 "wins": 10,
 "is_current_team_member": false
+},{
+"account_id": 25907144,
+"name": "Cr1t-",
+"position": 4,
+"games_played": 362,
+"wins": 224,
+"is_current_team_member": true
 },
 {
 "account_id": 94155156,
@@ -705,14 +707,22 @@
 "name": "paiN Gaming",
 "tag": "paiN",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/67.png",
-"players":[{
-"account_id": 84853828,
-"name": "Kingrd",
-"position": 4,
-"games_played": 368,
-"wins": 185,
-"is_current_team_member": true
-},
+"players":[
+  {
+  "account_id": 94004717,
+  "name": "hFn k3  ♥ M",
+  "position": 1,
+  "games_played": 214,
+  "wins": 118,
+  "is_current_team_member": true
+  },{
+  "account_id": 86700461,
+  "name": "w33",
+  "position": 2,
+  "games_played": 55,
+  "wins": 29,
+  "is_current_team_member": true
+  },
 {
 "account_id": 117956848,
 "name": "tavo",
@@ -721,11 +731,11 @@
 "wins": 168,
 "is_current_team_member": true
 },{
-"account_id": 94004717,
-"name": "hFn k3  ♥ M",
-"position": 1,
-"games_played": 214,
-"wins": 118,
+"account_id": 84853828,
+"name": "Kingrd",
+"position": 4,
+"games_played": 368,
+"wins": 185,
 "is_current_team_member": true
 },
 {
@@ -734,13 +744,6 @@
 "position": 5,
 "games_played": 155,
 "wins": 91,
-"is_current_team_member": true
-},{
-"account_id": 86700461,
-"name": "w33",
-"position": 2,
-"games_played": 55,
-"wins": 29,
 "is_current_team_member": true
 }]
 },
@@ -754,6 +757,21 @@
 "tag": "VGJ.T",
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/5027210.png",
 "players":[{
+"account_id": 108382060,
+"name": "Sylar",
+"position": 1,
+"games_played": 236,
+"wins": 136,
+"is_current_team_member": true
+},
+{
+"account_id": 137272985,
+"name": "Freeze",
+"position": 2,
+"games_played": 225,
+"wins": 130,
+"is_current_team_member": true
+},{
 "account_id": 139937922,
 "name": "Yang",
 "position": 3,
@@ -770,21 +788,6 @@
 "is_current_team_member": true
 },
 {
-"account_id": 108382060,
-"name": "Sylar",
-"position": 1,
-"games_played": 236,
-"wins": 136,
-"is_current_team_member": true
-},
-{
-"account_id": 137272985,
-"name": "Freeze",
-"position": 2,
-"games_played": 225,
-"wins": 130,
-"is_current_team_member": true
-},{
 "account_id": 114239371,
 "name": "ddc",
 "position": 5,
@@ -803,25 +806,24 @@
 "tag": "Serenity",
 "logo_url": "https://steamusercontent-a.akamaihd.net/ugc/869616562083341135/D694A4BBDAB0BD5C84F81D30AB9A7EBF6BCC7C71/",
 "players":[{
-"account_id": 157475523,
-"name": "XinQ",
-"position": 2,
-"games_played": 21,
-"wins": 11,
-"is_current_team_member": true
-},
-{
-"account_id": 117731777,
-"name": "XCJ",
-"position": 5,
-"games_played": 21,
-"wins": 11,
-"is_current_team_member": true
-},
-{
 "account_id": 168028715,
 "name": "zhizhizhi",
 "position": 1,
+"games_played": 21,
+"wins": 11,
+"is_current_team_member": true
+},
+{
+"account_id": 124936122,
+"name": "Zyd",
+"position": 2,
+"games_played": 16,
+"wins": 9,
+"is_current_team_member": true
+},{
+"account_id": 157475523,
+"name": "XinQ",
+"position": 3,
 "games_played": 21,
 "wins": 11,
 "is_current_team_member": true
@@ -835,11 +837,11 @@
 "is_current_team_member": true
 },
 {
-"account_id": 124936122,
-"name": "Zyd",
-"position": 2,
-"games_played": 16,
-"wins": 9,
+"account_id": 117731777,
+"name": "XCJ",
+"position": 5,
+"games_played": 21,
+"wins": 11,
 "is_current_team_member": true
 }]
 },
@@ -854,17 +856,31 @@
 "logo_url": "https://steamcdn-a.akamaihd.net/apps/dota2/images/team_logos/5.png",
 "players":[
   {
-"account_id": 207829314,
-"name": "BoBoKa",
-"position": 4,
-"games_played": 615,
-"wins": 367,
-"is_current_team_member": true
+  "account_id": 130416036,
+  "name": "Agressif",
+  "position": 1,
+  "games_played": 56,
+  "wins": 30,
+  "is_current_team_member": true
 },
 {
 "account_id": 129958758,
 "name": "Xxs",
 "position": 2,
+"games_played": 615,
+"wins": 367,
+"is_current_team_member": true
+},{
+"account_id": 156662698,
+"name": "Srf",
+"position": 3,
+"games_played": 56,
+"wins": 30,
+"is_current_team_member": true
+},{
+"account_id": 207829314,
+"name": "BoBoKa",
+"position": 4,
 "games_played": 615,
 "wins": 367,
 "is_current_team_member": true
@@ -875,21 +891,5 @@
 "games_played": 463,
 "wins": 282,
 "is_current_team_member": true
-},{
-"account_id": 156662698,
-"name": "Srf",
-"position": 3,
-"games_played": 56,
-"wins": 30,
-"is_current_team_member": true
-},
-{
-"account_id": 130416036,
-"name": "Agressif",
-"position": 1,
-"games_played": 56,
-"wins": 30,
-"is_current_team_member": true
-}
-]
+}]
 }]
