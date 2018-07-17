@@ -6,8 +6,8 @@ class TeamList extends Component {
 
       return <li className="TeamListli">
         {teams.map(team => (
-          <div className="container">
-            <h3 key={team.name}>{team.name}</h3>
+          <div className="container" key={team.name}>
+            <h3>{team.name}</h3>
             <img className={"container" + team.team_id + "img"} src={team.logo_url} />
 
             <div className="overlay">
@@ -20,7 +20,7 @@ class TeamList extends Component {
               <h5>{team.players[4].name}</h5>
               </div>
             </div>
-            
+
           </div>
         ))}
       </li>
